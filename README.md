@@ -1,2 +1,2 @@
 # first_test
-初めの一歩
+GitHub初めの一歩
